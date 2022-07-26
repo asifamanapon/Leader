@@ -109,8 +109,8 @@ a {
     margin-right: 60px;
     background-color: pink;
     color:red;
-    border-radius: 5px;
-    
+    border-radius: 15px;
+   padding: 5px; 
     
 }
 
